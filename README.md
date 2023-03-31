@@ -1,4 +1,4 @@
-# 6.Data-Engineer - Netflix - Study Case
+# Data-Engineer - Netflix - Study Case
 
 ## Netflix
 
