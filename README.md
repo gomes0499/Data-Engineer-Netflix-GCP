@@ -23,6 +23,7 @@ For a streaming service provider similar to Netflix, understanding user interact
 ### Tools
 
 * Python
+* Jupyter
 * Terraform
 * Github Actions
 * GCP PubSub
