@@ -2,7 +2,7 @@
 
 ## Netflix
 
-For a streaming service provider similar to Netflix, understanding user interactions and preferences is crucial for providing personalized content, recommendations, and improving customer retention. In this project, you will build a streaming data pipeline using Google Cloud Platform (GCP) to ingest, process, and store user interaction data in real-time.
+For Netflix, understanding user interactions and preferences is crucial for providing personalized content, recommendations, and improving customer retention. In this project, i will build a streaming data pipeline using Google Cloud Platform (GCP) to ingest, process, and store user interaction data in real-time.
 
 ### Data Pipeline Steps
 
