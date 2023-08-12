@@ -18,7 +18,7 @@ For Netflix, understanding user interactions and preferences is crucial for prov
 
 ### Pipeline Diagram
 
-![alt text](https://github.com/makima0499/6.Data-Engineer/blob/main/6.DataPipeline.png)
+![alt text](https://github.com/makima0499/6.Data-Engineer/blob/main/Netflix.png)
 
 ### Tools
 
